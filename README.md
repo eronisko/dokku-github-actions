@@ -1,2 +1,2 @@
 # dokku-github-actions
-GitHub Action wish dokku_client.sh
+GitHub Action with dokku_client.sh
